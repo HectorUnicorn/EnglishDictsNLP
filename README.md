@@ -3,3 +3,6 @@
 
 2. [en-lemmatizer.dict](https://www.baeldung.com/apache-open-nlp)
 英文的词形变换
+
+3. [English_Names_Corpus（2W）.txt](https://github.com/fighting41love/funNLP)
+常用的英文名字
