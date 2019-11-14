@@ -1181,6 +1181,7 @@ antonietta
 antonina
 antonino
 antonio
+antonioni
 antoniou
 antonis
 antonius
@@ -8184,7 +8185,6 @@ elyse
 elysia
 elza
 elzbieta
-em
 ema
 emad
 emam
@@ -16377,6 +16377,7 @@ lucic
 lucie
 lucien
 lucier
+lucifer
 lucila
 lucile
 lucille

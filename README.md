@@ -6,3 +6,6 @@
 
 3. [English_Names_Corpus（2W）.txt](https://github.com/fighting41love/funNLP)
 常用的英文名字
+
+4. [city.json](https://github.com/webxing/city_json/edit/master/city.json)
+中国所有城市的json数据(按首字母分，拼音+名称)
